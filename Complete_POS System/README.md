@@ -1,6 +1,7 @@
 # Point of Sale (POS) System
 
 A complete Point of Sale (POS) system built with C# for Windows with SQL Server as the database. This system provides a comprehensive set of features designed to streamline sales, inventory, and payment processes in a retail environment.
+![Intro](./POS.gif)
 
 ## Features
 
